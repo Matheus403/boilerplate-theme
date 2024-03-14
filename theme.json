@@ -1,12 +1,12 @@
 {
-  "label": "Thorit CMS Theme",
+  "label": "Company Name CMS Theme",
   "author": {
-    "name": "Thorit GmbH",
-    "email": "hi@Thorit.de",
-    "url": "https://www.Thorit.de/"
+    "name": "Company Name GmbH",
+    "email": "hi@Company Name.de",
+    "url": "https://www.Company Name.de/"
 	},
   "documentation_url": "#",
-  "example_url": "https://Thorit.de",
+  "example_url": "https://Company Name.de",
   "preview_path": "./templates/home.html",
   "screenshot_path": "./images/template-previews/home.png",
   "enable_domain_stylesheets": false,
